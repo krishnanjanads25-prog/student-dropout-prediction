@@ -132,7 +132,7 @@ The model is deployed using **Streamlit**.
 
 ### 🌐 Live App:
 
-👉 *(Add your deployed link here)*
+👉 *(https://student-dropout-prediction-g9vasalu3gaa2plehhy5gw.streamlit.app/)*
 
 ---
 
@@ -153,7 +153,7 @@ pip install -r requirements.txt
 ### 3. Run Application
 
 ```bash
-streamlit run app.py
+streamlit run 03_app.py
 ```
 
 ---
