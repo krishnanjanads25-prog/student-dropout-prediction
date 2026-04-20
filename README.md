@@ -172,7 +172,7 @@ student-dropout-prediction/
 │   └── member1_preprocessing.py
 │
 ├── best_model.pkl
-├── app.py
+├── 03_app.py
 ├── requirements.txt
 ├── README.md
 └── presentation.pptx
